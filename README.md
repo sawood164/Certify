@@ -84,7 +84,7 @@ A modern web application for managing and generating certificates for student cl
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/certificate-generator.git
+git clone https://github.com/sawood164/certificate-generator.git
 cd certificate-generator
 ```
 
